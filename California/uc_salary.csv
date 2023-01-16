@@ -1,0 +1,404 @@
+EmployerName,WageRank,Year,Position,uni_rank,wage_group,uni_group
+"University of California, Berkeley",9054.0,2021,Teachg Asst-Gship,1.0,3.0,0.0
+"University of California, Davis",6111.0,2021,Teachg Asst-Gship,5.0,2.0,2.0
+"University of California, Irvine",6129.0,2021,Teachg Asst-Gship,4.0,2.0,2.0
+"University of California, Los Angeles",9669.0,2021,Teachg Asst-Gship,0.0,4.0,0.0
+"University of California, Merced",4389.5,2021,Teachg Asst-Gship,8.0,0.0,4.0
+"University of California, Riverside",5422.0,2021,Teachg Asst-Gship,6.0,0.0,3.0
+"University of California, San Diego",6992.0,2021,Teachg Asst-Gship,3.0,3.0,1.0
+"University of California, Santa Barbara",5666.0,2021,Teachg Asst-Gship,2.0,1.0,1.0
+"University of California, Santa Cruz",5472.0,2021,Teachg Asst-Gship,7.0,1.0,3.0
+"University of California, Berkeley",7612.0,2020,Teachg Asst-Gship,1.0,4.0,0.0
+"University of California, Davis",4649.0,2020,Teachg Asst-Gship,5.0,1.0,2.0
+"University of California, Irvine",4738.5,2020,Teachg Asst-Gship,3.0,1.0,1.0
+"University of California, Los Angeles",6677.5,2020,Teachg Asst-Gship,0.0,3.0,0.0
+"University of California, Merced",3732.0,2020,Teachg Asst-Gship,8.0,0.0,4.0
+"University of California, Riverside",4073.5,2020,Teachg Asst-Gship,7.0,0.0,3.0
+"University of California, San Diego",6009.5,2020,Teachg Asst-Gship,4.0,3.0,2.0
+"University of California, Santa Barbara",4948.5,2020,Teachg Asst-Gship,2.0,2.0,1.0
+"University of California, Santa Cruz",4979.5,2020,Teachg Asst-Gship,6.0,2.0,3.0
+"University of California, Berkeley",7727.0,2019,Teachg Asst-Gship,1.0,2.0,0.0
+"University of California, Davis",8245.0,2019,Teachg Asst-Gship,4.0,3.0,2.0
+"University of California, Irvine",6288.0,2019,Teachg Asst-Gship,3.0,0.0,1.0
+"University of California, Los Angeles",10098.0,2019,Teachg Asst-Gship,0.0,4.0,0.0
+"University of California, Merced",7765.5,2019,Teachg Asst-Gship,8.0,2.0,4.0
+"University of California, Riverside",6327.0,2019,Teachg Asst-Gship,7.0,1.0,3.0
+"University of California, San Diego",7773.0,2019,Teachg Asst-Gship,5.0,3.0,2.0
+"University of California, Santa Barbara",7162.0,2019,Teachg Asst-Gship,2.0,1.0,1.0
+"University of California, Santa Cruz",5551.0,2019,Teachg Asst-Gship,6.0,0.0,3.0
+"University of California, Berkeley",8050.0,2018,Teachg Asst-Gship,1.0,3.0,0.0
+"University of California, Davis",5566.5,2018,Teachg Asst-Gship,5.0,1.0,2.0
+"University of California, Irvine",5635.0,2018,Teachg Asst-Gship,4.0,2.0,2.0
+"University of California, Los Angeles",10394.0,2018,Teachg Asst-Gship,0.0,4.0,0.0
+"University of California, Merced",3826.5,2018,Teachg Asst-Gship,7.0,0.0,3.0
+"University of California, Riverside",5265.0,2018,Teachg Asst-Gship,8.0,1.0,4.0
+"University of California, San Diego",7674.0,2018,Teachg Asst-Gship,3.0,3.0,1.0
+"University of California, Santa Barbara",7054.0,2018,Teachg Asst-Gship,2.0,2.0,1.0
+"University of California, Santa Cruz",5220.0,2018,Teachg Asst-Gship,6.0,0.0,3.0
+"University of California, Berkeley",7945.5,2017,Teachg Asst-Gship,0.0,3.0,0.0
+"University of California, Davis",5472.0,2017,Teachg Asst-Gship,5.0,1.0,2.0
+"University of California, Irvine",5944.0,2017,Teachg Asst-Gship,3.0,2.0,1.0
+"University of California, Los Angeles",10402.0,2017,Teachg Asst-Gship,1.0,4.0,0.0
+"University of California, Merced",4117.0,2017,Teachg Asst-Gship,7.0,0.0,3.0
+"University of California, Riverside",5595.0,2017,Teachg Asst-Gship,8.0,1.0,4.0
+"University of California, San Diego",7451.0,2017,Teachg Asst-Gship,4.0,3.0,2.0
+"University of California, Santa Barbara",5917.0,2017,Teachg Asst-Gship,2.0,2.0,1.0
+"University of California, Santa Cruz",4963.0,2017,Teachg Asst-Gship,6.0,0.0,3.0
+"University of California, Berkeley",7636.5,2016,Teachg Asst-Gship,0.0,3.0,0.0
+"University of California, Davis",5219.0,2016,Teachg Asst-Gship,5.0,1.0,2.0
+"University of California, Irvine",5328.5,2016,Teachg Asst-Gship,4.0,2.0,2.0
+"University of California, Los Angeles",10023.5,2016,Teachg Asst-Gship,1.0,4.0,0.0
+"University of California, Merced",4052.5,2016,Teachg Asst-Gship,7.0,0.0,3.0
+"University of California, Riverside",5119.0,2016,Teachg Asst-Gship,8.0,1.0,4.0
+"University of California, San Diego",6932.0,2016,Teachg Asst-Gship,3.0,3.0,1.0
+"University of California, Santa Barbara",5842.0,2016,Teachg Asst-Gship,2.0,2.0,1.0
+"University of California, Santa Cruz",5114.0,2016,Teachg Asst-Gship,6.0,0.0,3.0
+"University of California, Berkeley",7446.0,2015,Teachg Asst-Gship,0.0,3.0,0.0
+"University of California, Davis",5053.5,2015,Teachg Asst-Gship,3.0,1.0,1.0
+"University of California, Irvine",5619.0,2015,Teachg Asst-Gship,5.0,2.0,2.0
+"University of California, Los Angeles",9741.0,2015,Teachg Asst-Gship,1.0,4.0,0.0
+"University of California, Merced",5786.5,2015,Teachg Asst-Gship,7.0,2.0,3.0
+"University of California, Riverside",4956.0,2015,Teachg Asst-Gship,8.0,0.0,4.0
+"University of California, San Diego",6600.0,2015,Teachg Asst-Gship,2.0,3.0,1.0
+"University of California, Santa Barbara",5414.0,2015,Teachg Asst-Gship,4.0,1.0,2.0
+"University of California, Santa Cruz",4855.5,2015,Teachg Asst-Gship,6.0,0.0,3.0
+"University of California, Berkeley",7065.5,2014,Teachg Asst-Gship,0.0,3.0,0.0
+"University of California, Davis",4808.0,2014,Teachg Asst-Gship,3.0,0.0,1.0
+"University of California, Irvine",5613.5,2014,Teachg Asst-Gship,5.0,2.0,2.0
+"University of California, Los Angeles",9296.0,2014,Teachg Asst-Gship,1.0,4.0,0.0
+"University of California, Merced",3230.5,2014,Teachg Asst-Gship,7.0,0.0,3.0
+"University of California, Riverside",4942.5,2014,Teachg Asst-Gship,8.0,1.0,4.0
+"University of California, San Diego",6054.0,2014,Teachg Asst-Gship,2.0,3.0,1.0
+"University of California, Santa Barbara",5210.0,2014,Teachg Asst-Gship,4.0,2.0,2.0
+"University of California, Santa Cruz",5125.5,2014,Teachg Asst-Gship,6.0,1.0,3.0
+"University of California, Berkeley",5223.5,2013,Teachg Asst-Gship,0.0,3.0,0.0
+"University of California, Irvine",3521.0,2013,Teachg Asst-Gship,5.0,1.0,1.0
+"University of California, Los Angeles",6456.0,2013,Teachg Asst-Gship,1.0,4.0,0.0
+"University of California, Merced",2857.0,2013,Teachg Asst-Gship,7.0,0.0,3.0
+"University of California, Riverside",3280.0,2013,Teachg Asst-Gship,8.0,0.0,4.0
+"University of California, San Diego",4408.0,2013,Teachg Asst-Gship,2.0,2.0,1.0
+"University of California, Santa Cruz",3689.5,2013,Teachg Asst-Gship,6.0,1.0,2.0
+"University of California, Berkeley",3268.5,2021,Postdoc-Employee,1.0,3.0,0.0
+"University of California, Davis",3039.0,2021,Postdoc-Employee,5.0,1.0,2.0
+"University of California, Irvine",3215.5,2021,Postdoc-Employee,4.0,3.0,2.0
+"University of California, Los Angeles",2822.0,2021,Postdoc-Employee,0.0,0.0,0.0
+"University of California, Merced",3604.0,2021,Postdoc-Employee,8.0,4.0,4.0
+"University of California, Riverside",3147.0,2021,Postdoc-Employee,6.0,2.0,3.0
+"University of California, San Diego",2964.5,2021,Postdoc-Employee,3.0,1.0,1.0
+"University of California, Santa Barbara",3173.5,2021,Postdoc-Employee,2.0,2.0,1.0
+"University of California, Santa Cruz",2897.0,2021,Postdoc-Employee,7.0,0.0,3.0
+"University of California, Berkeley",3213.5,2020,Postdoc-Employee,1.0,2.0,0.0
+"University of California, Davis",2924.5,2020,Postdoc-Employee,5.0,1.0,2.0
+"University of California, Irvine",3097.5,2020,Postdoc-Employee,3.0,2.0,1.0
+"University of California, Los Angeles",2659.0,2020,Postdoc-Employee,0.0,0.0,0.0
+"University of California, Merced",3340.0,2020,Postdoc-Employee,8.0,3.0,4.0
+"University of California, Riverside",3414.0,2020,Postdoc-Employee,7.0,4.0,3.0
+"University of California, San Diego",2822.0,2020,Postdoc-Employee,4.0,0.0,2.0
+"University of California, Santa Barbara",3062.5,2020,Postdoc-Employee,2.0,1.0,1.0
+"University of California, Santa Cruz",3284.0,2020,Postdoc-Employee,6.0,3.0,3.0
+"University of California, Berkeley",3185.0,2019,Postdoc-Employee,1.0,1.0,0.0
+"University of California, Davis",3310.0,2019,Postdoc-Employee,4.0,2.0,2.0
+"University of California, Irvine",3763.0,2019,Postdoc-Employee,3.0,3.0,1.0
+"University of California, Los Angeles",2879.5,2019,Postdoc-Employee,0.0,0.0,0.0
+"University of California, Merced",3800.0,2019,Postdoc-Employee,8.0,4.0,4.0
+"University of California, Riverside",3241.0,2019,Postdoc-Employee,7.0,2.0,3.0
+"University of California, San Diego",3146.0,2019,Postdoc-Employee,5.0,1.0,2.0
+"University of California, Santa Barbara",2786.0,2019,Postdoc-Employee,2.0,0.0,1.0
+"University of California, Santa Cruz",3360.0,2019,Postdoc-Employee,6.0,3.0,3.0
+"University of California, Berkeley",3320.0,2018,Postdoc-Employee,1.0,3.0,0.0
+"University of California, Davis",3252.0,2018,Postdoc-Employee,5.0,2.0,2.0
+"University of California, Irvine",3305.5,2018,Postdoc-Employee,4.0,3.0,2.0
+"University of California, Los Angeles",3003.0,2018,Postdoc-Employee,0.0,1.0,0.0
+"University of California, Merced",3359.0,2018,Postdoc-Employee,7.0,4.0,3.0
+"University of California, Riverside",2914.0,2018,Postdoc-Employee,8.0,0.0,4.0
+"University of California, San Diego",3237.5,2018,Postdoc-Employee,3.0,2.0,1.0
+"University of California, Santa Barbara",3097.0,2018,Postdoc-Employee,2.0,1.0,1.0
+"University of California, Santa Cruz",2944.0,2018,Postdoc-Employee,6.0,0.0,3.0
+"University of California, Berkeley",3111.5,2017,Postdoc-Employee,0.0,1.0,0.0
+"University of California, Davis",2912.0,2017,Postdoc-Employee,5.0,0.0,2.0
+"University of California, Irvine",3221.0,2017,Postdoc-Employee,3.0,3.0,1.0
+"University of California, Los Angeles",3149.0,2017,Postdoc-Employee,1.0,1.0,0.0
+"University of California, Merced",3405.5,2017,Postdoc-Employee,7.0,4.0,3.0
+"University of California, Riverside",3166.0,2017,Postdoc-Employee,8.0,2.0,4.0
+"University of California, San Diego",3362.0,2017,Postdoc-Employee,4.0,3.0,2.0
+"University of California, Santa Barbara",2817.0,2017,Postdoc-Employee,2.0,0.0,1.0
+"University of California, Santa Cruz",3218.5,2017,Postdoc-Employee,6.0,2.0,3.0
+"University of California, Berkeley",3179.5,2016,Postdoc-Employee,0.0,2.0,0.0
+"University of California, Davis",3087.0,2016,Postdoc-Employee,5.0,2.0,2.0
+"University of California, Irvine",3250.5,2016,Postdoc-Employee,4.0,3.0,2.0
+"University of California, Los Angeles",2975.0,2016,Postdoc-Employee,1.0,0.0,0.0
+"University of California, Merced",3424.0,2016,Postdoc-Employee,7.0,4.0,3.0
+"University of California, Riverside",3400.0,2016,Postdoc-Employee,8.0,3.0,4.0
+"University of California, San Diego",3062.0,2016,Postdoc-Employee,3.0,1.0,1.0
+"University of California, Santa Barbara",2998.0,2016,Postdoc-Employee,2.0,0.0,1.0
+"University of California, Santa Cruz",3086.0,2016,Postdoc-Employee,6.0,1.0,3.0
+"University of California, Berkeley",3180.5,2015,Postdoc-Employee,0.0,3.0,0.0
+"University of California, Davis",2849.0,2015,Postdoc-Employee,3.0,1.0,1.0
+"University of California, Irvine",3307.0,2015,Postdoc-Employee,5.0,4.0,2.0
+"University of California, Los Angeles",2847.0,2015,Postdoc-Employee,1.0,1.0,0.0
+"University of California, Merced",2752.0,2015,Postdoc-Employee,7.0,0.0,3.0
+"University of California, Riverside",3122.0,2015,Postdoc-Employee,8.0,2.0,4.0
+"University of California, San Diego",3168.0,2015,Postdoc-Employee,2.0,2.0,1.0
+"University of California, Santa Barbara",2330.0,2015,Postdoc-Employee,4.0,0.0,2.0
+"University of California, Santa Cruz",3239.5,2015,Postdoc-Employee,6.0,3.0,3.0
+"University of California, Berkeley",3080.0,2014,Postdoc-Employee,0.0,3.0,0.0
+"University of California, Davis",2898.5,2014,Postdoc-Employee,3.0,1.0,1.0
+"University of California, Irvine",2796.0,2014,Postdoc-Employee,5.0,0.0,2.0
+"University of California, Los Angeles",2845.0,2014,Postdoc-Employee,1.0,1.0,0.0
+"University of California, Merced",2949.0,2014,Postdoc-Employee,7.0,2.0,3.0
+"University of California, Riverside",3277.0,2014,Postdoc-Employee,8.0,4.0,4.0
+"University of California, San Diego",3153.0,2014,Postdoc-Employee,2.0,3.0,1.0
+"University of California, Santa Barbara",2438.0,2014,Postdoc-Employee,4.0,0.0,2.0
+"University of California, Santa Cruz",2940.0,2014,Postdoc-Employee,6.0,2.0,3.0
+"University of California, Berkeley",3161.0,2013,Postdoc-Employee,0.0,3.0,0.0
+"University of California, Davis",3133.0,2013,Postdoc-Employee,3.0,2.0,1.0
+"University of California, Irvine",2727.0,2013,Postdoc-Employee,5.0,0.0,2.0
+"University of California, Los Angeles",2890.5,2013,Postdoc-Employee,1.0,1.0,0.0
+"University of California, Merced",3611.0,2013,Postdoc-Employee,7.0,4.0,3.0
+"University of California, Riverside",3073.0,2013,Postdoc-Employee,8.0,2.0,4.0
+"University of California, San Diego",3015.0,2013,Postdoc-Employee,2.0,1.0,1.0
+"University of California, Santa Barbara",2880.0,2013,Postdoc-Employee,4.0,0.0,2.0
+"University of California, Santa Cruz",3154.0,2013,Postdoc-Employee,6.0,3.0,3.0
+"University of California, Berkeley",194.0,2021,Asst Prof-Ay-B/E/E,1.0,1.0,0.0
+"University of California, Davis",323.0,2021,Asst Prof-Ay-B/E/E,5.0,2.0,2.0
+"University of California, Irvine",321.5,2021,Asst Prof-Ay-B/E/E,4.0,2.0,2.0
+"University of California, Los Angeles",172.5,2021,Asst Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",401.0,2021,Asst Prof-Ay-B/E/E,8.0,4.0,4.0
+"University of California, Riverside",369.0,2021,Asst Prof-Ay-B/E/E,6.0,3.0,3.0
+"University of California, San Diego",222.0,2021,Asst Prof-Ay-B/E/E,3.0,1.0,1.0
+"University of California, Santa Barbara",191.5,2021,Asst Prof-Ay-B/E/E,2.0,0.0,1.0
+"University of California, Santa Cruz",384.0,2021,Asst Prof-Ay-B/E/E,7.0,3.0,3.0
+"University of California, Berkeley",176.0,2020,Asst Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Davis",322.5,2020,Asst Prof-Ay-B/E/E,5.0,2.0,2.0
+"University of California, Irvine",344.0,2020,Asst Prof-Ay-B/E/E,3.0,2.0,1.0
+"University of California, Los Angeles",144.5,2020,Asst Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",403.0,2020,Asst Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, Riverside",412.0,2020,Asst Prof-Ay-B/E/E,7.0,4.0,3.0
+"University of California, San Diego",290.0,2020,Asst Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Barbara",228.0,2020,Asst Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Cruz",375.5,2020,Asst Prof-Ay-B/E/E,6.0,3.0,3.0
+"University of California, Berkeley",163.5,2019,Asst Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Davis",324.0,2019,Asst Prof-Ay-B/E/E,4.0,3.0,2.0
+"University of California, Irvine",302.0,2019,Asst Prof-Ay-B/E/E,3.0,2.0,1.0
+"University of California, Los Angeles",153.0,2019,Asst Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",384.0,2019,Asst Prof-Ay-B/E/E,8.0,4.0,4.0
+"University of California, Riverside",363.0,2019,Asst Prof-Ay-B/E/E,7.0,3.0,3.0
+"University of California, San Diego",238.0,2019,Asst Prof-Ay-B/E/E,5.0,1.0,2.0
+"University of California, Santa Barbara",219.0,2019,Asst Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Cruz",319.0,2019,Asst Prof-Ay-B/E/E,6.0,2.0,3.0
+"University of California, Berkeley",139.0,2018,Asst Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Davis",257.0,2018,Asst Prof-Ay-B/E/E,5.0,2.0,2.0
+"University of California, Irvine",328.5,2018,Asst Prof-Ay-B/E/E,4.0,3.0,2.0
+"University of California, Los Angeles",139.0,2018,Asst Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",336.0,2018,Asst Prof-Ay-B/E/E,7.0,4.0,3.0
+"University of California, Riverside",329.5,2018,Asst Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, San Diego",191.0,2018,Asst Prof-Ay-B/E/E,3.0,1.0,1.0
+"University of California, Santa Barbara",221.0,2018,Asst Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Cruz",269.0,2018,Asst Prof-Ay-B/E/E,6.0,2.0,3.0
+"University of California, Berkeley",141.0,2017,Asst Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Davis",304.0,2017,Asst Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Irvine",200.0,2017,Asst Prof-Ay-B/E/E,3.0,1.0,1.0
+"University of California, Los Angeles",115.0,2017,Asst Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",336.0,2017,Asst Prof-Ay-B/E/E,7.0,4.0,3.0
+"University of California, Riverside",278.5,2017,Asst Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, San Diego",207.0,2017,Asst Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Barbara",218.0,2017,Asst Prof-Ay-B/E/E,2.0,2.0,1.0
+"University of California, Santa Cruz",263.5,2017,Asst Prof-Ay-B/E/E,6.0,2.0,3.0
+"University of California, Berkeley",86.0,2016,Asst Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Davis",290.5,2016,Asst Prof-Ay-B/E/E,5.0,4.0,2.0
+"University of California, Irvine",193.0,2016,Asst Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Los Angeles",127.5,2016,Asst Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",271.5,2016,Asst Prof-Ay-B/E/E,7.0,3.0,3.0
+"University of California, Riverside",248.5,2016,Asst Prof-Ay-B/E/E,8.0,2.0,4.0
+"University of California, San Diego",162.0,2016,Asst Prof-Ay-B/E/E,3.0,1.0,1.0
+"University of California, Santa Barbara",221.0,2016,Asst Prof-Ay-B/E/E,2.0,2.0,1.0
+"University of California, Santa Cruz",269.5,2016,Asst Prof-Ay-B/E/E,6.0,3.0,3.0
+"University of California, Berkeley",102.0,2015,Asst Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Davis",250.0,2015,Asst Prof-Ay-B/E/E,3.0,4.0,1.0
+"University of California, Irvine",184.0,2015,Asst Prof-Ay-B/E/E,5.0,2.0,2.0
+"University of California, Los Angeles",131.0,2015,Asst Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",237.5,2015,Asst Prof-Ay-B/E/E,7.0,3.0,3.0
+"University of California, Riverside",230.5,2015,Asst Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, San Diego",165.0,2015,Asst Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Barbara",179.5,2015,Asst Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Cruz",219.0,2015,Asst Prof-Ay-B/E/E,6.0,2.0,3.0
+"University of California, Berkeley",75.0,2014,Asst Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Davis",227.0,2014,Asst Prof-Ay-B/E/E,3.0,3.0,1.0
+"University of California, Irvine",158.0,2014,Asst Prof-Ay-B/E/E,5.0,1.0,2.0
+"University of California, Los Angeles",126.0,2014,Asst Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",266.0,2014,Asst Prof-Ay-B/E/E,7.0,4.0,3.0
+"University of California, Riverside",225.0,2014,Asst Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, San Diego",200.0,2014,Asst Prof-Ay-B/E/E,2.0,2.0,1.0
+"University of California, Santa Barbara",157.0,2014,Asst Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Cruz",181.0,2014,Asst Prof-Ay-B/E/E,6.0,2.0,3.0
+"University of California, Berkeley",131.5,2013,Asst Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Davis",213.5,2013,Asst Prof-Ay-B/E/E,3.0,2.0,1.0
+"University of California, Irvine",204.0,2013,Asst Prof-Ay-B/E/E,5.0,2.0,2.0
+"University of California, Los Angeles",112.5,2013,Asst Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",259.5,2013,Asst Prof-Ay-B/E/E,7.0,3.0,3.0
+"University of California, Riverside",241.0,2013,Asst Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, San Diego",144.0,2013,Asst Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Barbara",185.0,2013,Asst Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Cruz",276.5,2013,Asst Prof-Ay-B/E/E,6.0,4.0,3.0
+"University of California, Berkeley",188.0,2021,Assoc Prof-Ay-B/E/E,1.0,1.0,0.0
+"University of California, Davis",258.0,2021,Assoc Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Irvine",176.0,2021,Assoc Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Los Angeles",83.5,2021,Assoc Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",299.0,2021,Assoc Prof-Ay-B/E/E,8.0,4.0,4.0
+"University of California, Riverside",213.5,2021,Assoc Prof-Ay-B/E/E,6.0,2.0,3.0
+"University of California, San Diego",137.5,2021,Assoc Prof-Ay-B/E/E,3.0,0.0,1.0
+"University of California, Santa Barbara",229.0,2021,Assoc Prof-Ay-B/E/E,2.0,2.0,1.0
+"University of California, Santa Cruz",272.0,2021,Assoc Prof-Ay-B/E/E,7.0,3.0,3.0
+"University of California, Berkeley",116.0,2020,Assoc Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Davis",235.5,2020,Assoc Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Irvine",194.0,2020,Assoc Prof-Ay-B/E/E,3.0,2.0,1.0
+"University of California, Los Angeles",51.0,2020,Assoc Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",245.0,2020,Assoc Prof-Ay-B/E/E,8.0,4.0,4.0
+"University of California, Riverside",174.5,2020,Assoc Prof-Ay-B/E/E,7.0,2.0,3.0
+"University of California, San Diego",152.5,2020,Assoc Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Barbara",149.0,2020,Assoc Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Cruz",203.5,2020,Assoc Prof-Ay-B/E/E,6.0,3.0,3.0
+"University of California, Berkeley",107.0,2019,Assoc Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Davis",222.5,2019,Assoc Prof-Ay-B/E/E,4.0,4.0,2.0
+"University of California, Irvine",210.0,2019,Assoc Prof-Ay-B/E/E,3.0,2.0,1.0
+"University of California, Los Angeles",53.0,2019,Assoc Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",213.5,2019,Assoc Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, Riverside",171.0,2019,Assoc Prof-Ay-B/E/E,7.0,2.0,3.0
+"University of California, San Diego",136.0,2019,Assoc Prof-Ay-B/E/E,5.0,1.0,2.0
+"University of California, Santa Barbara",155.5,2019,Assoc Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Cruz",212.5,2019,Assoc Prof-Ay-B/E/E,6.0,3.0,3.0
+"University of California, Berkeley",121.0,2018,Assoc Prof-Ay-B/E/E,1.0,1.0,0.0
+"University of California, Davis",209.0,2018,Assoc Prof-Ay-B/E/E,5.0,2.0,2.0
+"University of California, Irvine",175.0,2018,Assoc Prof-Ay-B/E/E,4.0,2.0,2.0
+"University of California, Los Angeles",50.0,2018,Assoc Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",221.0,2018,Assoc Prof-Ay-B/E/E,7.0,3.0,3.0
+"University of California, Riverside",210.0,2018,Assoc Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, San Diego",114.0,2018,Assoc Prof-Ay-B/E/E,3.0,0.0,1.0
+"University of California, Santa Barbara",151.5,2018,Assoc Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Cruz",222.0,2018,Assoc Prof-Ay-B/E/E,6.0,4.0,3.0
+"University of California, Berkeley",104.5,2017,Assoc Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Davis",203.0,2017,Assoc Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Irvine",167.0,2017,Assoc Prof-Ay-B/E/E,3.0,2.0,1.0
+"University of California, Los Angeles",63.0,2017,Assoc Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",215.5,2017,Assoc Prof-Ay-B/E/E,7.0,4.0,3.0
+"University of California, Riverside",195.0,2017,Assoc Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, San Diego",125.5,2017,Assoc Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Barbara",165.5,2017,Assoc Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Cruz",181.0,2017,Assoc Prof-Ay-B/E/E,6.0,2.0,3.0
+"University of California, Berkeley",109.0,2016,Assoc Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Davis",182.5,2016,Assoc Prof-Ay-B/E/E,5.0,2.0,2.0
+"University of California, Irvine",203.0,2016,Assoc Prof-Ay-B/E/E,4.0,3.0,2.0
+"University of California, Los Angeles",57.0,2016,Assoc Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",199.0,2016,Assoc Prof-Ay-B/E/E,7.0,3.0,3.0
+"University of California, Riverside",229.5,2016,Assoc Prof-Ay-B/E/E,8.0,4.0,4.0
+"University of California, San Diego",121.0,2016,Assoc Prof-Ay-B/E/E,3.0,1.0,1.0
+"University of California, Santa Barbara",179.0,2016,Assoc Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Cruz",180.0,2016,Assoc Prof-Ay-B/E/E,6.0,2.0,3.0
+"University of California, Berkeley",121.0,2015,Assoc Prof-Ay-B/E/E,0.0,1.0,0.0
+"University of California, Davis",208.0,2015,Assoc Prof-Ay-B/E/E,3.0,2.0,1.0
+"University of California, Irvine",209.0,2015,Assoc Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Los Angeles",59.0,2015,Assoc Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",196.0,2015,Assoc Prof-Ay-B/E/E,7.0,2.0,3.0
+"University of California, Riverside",239.0,2015,Assoc Prof-Ay-B/E/E,8.0,4.0,4.0
+"University of California, San Diego",111.0,2015,Assoc Prof-Ay-B/E/E,2.0,0.0,1.0
+"University of California, Santa Barbara",171.0,2015,Assoc Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Cruz",236.0,2015,Assoc Prof-Ay-B/E/E,6.0,3.0,3.0
+"University of California, Berkeley",105.5,2014,Assoc Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Davis",199.5,2014,Assoc Prof-Ay-B/E/E,3.0,3.0,1.0
+"University of California, Irvine",216.5,2014,Assoc Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Los Angeles",71.0,2014,Assoc Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",180.0,2014,Assoc Prof-Ay-B/E/E,7.0,2.0,3.0
+"University of California, Riverside",242.0,2014,Assoc Prof-Ay-B/E/E,8.0,4.0,4.0
+"University of California, San Diego",125.0,2014,Assoc Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Barbara",146.0,2014,Assoc Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Cruz",199.0,2014,Assoc Prof-Ay-B/E/E,6.0,2.0,3.0
+"University of California, Berkeley",101.0,2013,Assoc Prof-Ay-B/E/E,0.0,1.0,0.0
+"University of California, Davis",190.5,2013,Assoc Prof-Ay-B/E/E,3.0,2.0,1.0
+"University of California, Irvine",219.0,2013,Assoc Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Los Angeles",84.5,2013,Assoc Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",253.0,2013,Assoc Prof-Ay-B/E/E,7.0,4.0,3.0
+"University of California, Riverside",253.0,2013,Assoc Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, San Diego",127.0,2013,Assoc Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Barbara",98.0,2013,Assoc Prof-Ay-B/E/E,4.0,0.0,2.0
+"University of California, Santa Cruz",193.0,2013,Assoc Prof-Ay-B/E/E,6.0,2.0,3.0
+"University of California, Berkeley",534.5,2021,Prof-Ay-B/E/E,1.0,1.0,0.0
+"University of California, Davis",801.0,2021,Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Irvine",704.5,2021,Prof-Ay-B/E/E,4.0,2.0,2.0
+"University of California, Los Angeles",257.0,2021,Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",835.0,2021,Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, Riverside",647.0,2021,Prof-Ay-B/E/E,6.0,2.0,3.0
+"University of California, San Diego",584.0,2021,Prof-Ay-B/E/E,3.0,1.0,1.0
+"University of California, Santa Barbara",513.5,2021,Prof-Ay-B/E/E,2.0,0.0,1.0
+"University of California, Santa Cruz",918.0,2021,Prof-Ay-B/E/E,7.0,4.0,3.0
+"University of California, Berkeley",561.0,2020,Prof-Ay-B/E/E,1.0,1.0,0.0
+"University of California, Davis",736.5,2020,Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Irvine",683.0,2020,Prof-Ay-B/E/E,3.0,2.0,1.0
+"University of California, Los Angeles",257.0,2020,Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",775.0,2020,Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, Riverside",630.5,2020,Prof-Ay-B/E/E,7.0,2.0,3.0
+"University of California, San Diego",582.0,2020,Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Barbara",483.0,2020,Prof-Ay-B/E/E,2.0,0.0,1.0
+"University of California, Santa Cruz",958.0,2020,Prof-Ay-B/E/E,6.0,4.0,3.0
+"University of California, Berkeley",511.0,2019,Prof-Ay-B/E/E,1.0,1.0,0.0
+"University of California, Davis",690.5,2019,Prof-Ay-B/E/E,4.0,3.0,2.0
+"University of California, Irvine",645.0,2019,Prof-Ay-B/E/E,3.0,2.0,1.0
+"University of California, Los Angeles",275.0,2019,Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",681.5,2019,Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, Riverside",555.5,2019,Prof-Ay-B/E/E,7.0,1.0,3.0
+"University of California, San Diego",561.0,2019,Prof-Ay-B/E/E,5.0,2.0,2.0
+"University of California, Santa Barbara",428.0,2019,Prof-Ay-B/E/E,2.0,0.0,1.0
+"University of California, Santa Cruz",863.0,2019,Prof-Ay-B/E/E,6.0,4.0,3.0
+"University of California, Berkeley",536.0,2018,Prof-Ay-B/E/E,1.0,1.0,0.0
+"University of California, Davis",758.0,2018,Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Irvine",672.5,2018,Prof-Ay-B/E/E,4.0,2.0,2.0
+"University of California, Los Angeles",234.0,2018,Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Merced",784.0,2018,Prof-Ay-B/E/E,7.0,3.0,3.0
+"University of California, Riverside",631.5,2018,Prof-Ay-B/E/E,8.0,2.0,4.0
+"University of California, San Diego",526.0,2018,Prof-Ay-B/E/E,3.0,0.0,1.0
+"University of California, Santa Barbara",566.0,2018,Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Cruz",892.5,2018,Prof-Ay-B/E/E,6.0,4.0,3.0
+"University of California, Berkeley",551.0,2017,Prof-Ay-B/E/E,0.0,1.0,0.0
+"University of California, Davis",742.5,2017,Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Irvine",660.0,2017,Prof-Ay-B/E/E,3.0,2.0,1.0
+"University of California, Los Angeles",281.5,2017,Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",850.5,2017,Prof-Ay-B/E/E,7.0,3.0,3.0
+"University of California, Riverside",696.5,2017,Prof-Ay-B/E/E,8.0,2.0,4.0
+"University of California, San Diego",557.0,2017,Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Barbara",541.0,2017,Prof-Ay-B/E/E,2.0,0.0,1.0
+"University of California, Santa Cruz",907.5,2017,Prof-Ay-B/E/E,6.0,4.0,3.0
+"University of California, Berkeley",563.0,2016,Prof-Ay-B/E/E,0.0,1.0,0.0
+"University of California, Davis",761.0,2016,Prof-Ay-B/E/E,5.0,3.0,2.0
+"University of California, Irvine",612.0,2016,Prof-Ay-B/E/E,4.0,2.0,2.0
+"University of California, Los Angeles",283.0,2016,Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",656.0,2016,Prof-Ay-B/E/E,7.0,3.0,3.0
+"University of California, Riverside",654.0,2016,Prof-Ay-B/E/E,8.0,2.0,4.0
+"University of California, San Diego",562.0,2016,Prof-Ay-B/E/E,3.0,1.0,1.0
+"University of California, Santa Barbara",506.0,2016,Prof-Ay-B/E/E,2.0,0.0,1.0
+"University of California, Santa Cruz",917.0,2016,Prof-Ay-B/E/E,6.0,4.0,3.0
+"University of California, Berkeley",504.0,2015,Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Davis",725.0,2015,Prof-Ay-B/E/E,3.0,3.0,1.0
+"University of California, Irvine",555.0,2015,Prof-Ay-B/E/E,5.0,2.0,2.0
+"University of California, Los Angeles",297.0,2015,Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",536.0,2015,Prof-Ay-B/E/E,7.0,1.0,3.0
+"University of California, Riverside",718.5,2015,Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, San Diego",583.5,2015,Prof-Ay-B/E/E,2.0,2.0,1.0
+"University of California, Santa Barbara",537.0,2015,Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Cruz",864.0,2015,Prof-Ay-B/E/E,6.0,4.0,3.0
+"University of California, Berkeley",482.0,2014,Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Davis",732.5,2014,Prof-Ay-B/E/E,3.0,3.0,1.0
+"University of California, Irvine",612.0,2014,Prof-Ay-B/E/E,5.0,2.0,2.0
+"University of California, Los Angeles",280.0,2014,Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",649.0,2014,Prof-Ay-B/E/E,7.0,2.0,3.0
+"University of California, Riverside",754.5,2014,Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, San Diego",554.5,2014,Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Barbara",513.0,2014,Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Cruz",862.5,2014,Prof-Ay-B/E/E,6.0,4.0,3.0
+"University of California, Berkeley",458.5,2013,Prof-Ay-B/E/E,0.0,0.0,0.0
+"University of California, Davis",688.0,2013,Prof-Ay-B/E/E,3.0,3.0,1.0
+"University of California, Irvine",569.0,2013,Prof-Ay-B/E/E,5.0,2.0,2.0
+"University of California, Los Angeles",284.5,2013,Prof-Ay-B/E/E,1.0,0.0,0.0
+"University of California, Merced",636.0,2013,Prof-Ay-B/E/E,7.0,2.0,3.0
+"University of California, Riverside",717.0,2013,Prof-Ay-B/E/E,8.0,3.0,4.0
+"University of California, San Diego",555.0,2013,Prof-Ay-B/E/E,2.0,1.0,1.0
+"University of California, Santa Barbara",500.0,2013,Prof-Ay-B/E/E,4.0,1.0,2.0
+"University of California, Santa Cruz",818.0,2013,Prof-Ay-B/E/E,6.0,4.0,3.0

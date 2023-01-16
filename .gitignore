@@ -1,0 +1,16 @@
+
+logs/.DS_Store
+.DS_Store
+*.pyc
+*.xml
+*.iml
+*.pickle
+*.pdf
+California/.ipynb_checkpoints
+California/UC_cali
+California/UC_logs
+California/UniversityOfCalifornia
+Executives/.ipynb_checkpoints
+Executives/exec_cali
+Executives/exec_logs
+Executives/*.csv

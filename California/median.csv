@@ -1,0 +1,404 @@
+EmployerName,TotalWages,Year,Position
+"University of California, Berkeley",7875.0,2021,Teachg Asst-Gship
+"University of California, Davis",17554.0,2021,Teachg Asst-Gship
+"University of California, Irvine",17554.0,2021,Teachg Asst-Gship
+"University of California, Los Angeles",5959.0,2021,Teachg Asst-Gship
+"University of California, Merced",22720.0,2021,Teachg Asst-Gship
+"University of California, Riverside",20212.0,2021,Teachg Asst-Gship
+"University of California, San Diego",15329.0,2021,Teachg Asst-Gship
+"University of California, Santa Barbara",19127.0,2021,Teachg Asst-Gship
+"University of California, Santa Cruz",20130.0,2021,Teachg Asst-Gship
+"University of California, Berkeley",7182.0,2020,Teachg Asst-Gship
+"University of California, Davis",17042.0,2020,Teachg Asst-Gship
+"University of California, Irvine",17042.0,2020,Teachg Asst-Gship
+"University of California, Los Angeles",9738.0,2020,Teachg Asst-Gship
+"University of California, Merced",21159.0,2020,Teachg Asst-Gship
+"University of California, Riverside",19623.0,2020,Teachg Asst-Gship
+"University of California, San Diego",12459.5,2020,Teachg Asst-Gship
+"University of California, Santa Barbara",17042.0,2020,Teachg Asst-Gship
+"University of California, Santa Cruz",17042.0,2020,Teachg Asst-Gship
+"University of California, Berkeley",14414.0,2019,Teachg Asst-Gship
+"University of California, Davis",13142.0,2019,Teachg Asst-Gship
+"University of California, Irvine",17862.5,2019,Teachg Asst-Gship
+"University of California, Los Angeles",8731.5,2019,Teachg Asst-Gship
+"University of California, Merced",14441.5,2019,Teachg Asst-Gship
+"University of California, Riverside",17708.0,2019,Teachg Asst-Gship
+"University of California, San Diego",14333.5,2019,Teachg Asst-Gship
+"University of California, Santa Barbara",16446.0,2019,Teachg Asst-Gship
+"University of California, Santa Cruz",19903.5,2019,Teachg Asst-Gship
+"University of California, Berkeley",10326.0,2018,Teachg Asst-Gship
+"University of California, Davis",16063.0,2018,Teachg Asst-Gship
+"University of California, Irvine",16063.0,2018,Teachg Asst-Gship
+"University of California, Los Angeles",5906.0,2018,Teachg Asst-Gship
+"University of California, Merced",20891.0,2018,Teachg Asst-Gship
+"University of California, Riverside",16819.0,2018,Teachg Asst-Gship
+"University of California, San Diego",11165.0,2018,Teachg Asst-Gship
+"University of California, Santa Barbara",12621.0,2018,Teachg Asst-Gship
+"University of California, Santa Cruz",17024.0,2018,Teachg Asst-Gship
+"University of California, Berkeley",10025.0,2017,Teachg Asst-Gship
+"University of California, Davis",15595.0,2017,Teachg Asst-Gship
+"University of California, Irvine",15082.0,2017,Teachg Asst-Gship
+"University of California, Los Angeles",5165.0,2017,Teachg Asst-Gship
+"University of California, Merced",20130.0,2017,Teachg Asst-Gship
+"University of California, Riverside",15595.0,2017,Teachg Asst-Gship
+"University of California, San Diego",11045.0,2017,Teachg Asst-Gship
+"University of California, Santa Barbara",15214.0,2017,Teachg Asst-Gship
+"University of California, Santa Cruz",17305.5,2017,Teachg Asst-Gship
+"University of California, Berkeley",9640.0,2016,Teachg Asst-Gship
+"University of California, Davis",14995.0,2016,Teachg Asst-Gship
+"University of California, Irvine",14995.0,2016,Teachg Asst-Gship
+"University of California, Los Angeles",5129.5,2016,Teachg Asst-Gship
+"University of California, Merced",19227.5,2016,Teachg Asst-Gship
+"University of California, Riverside",15175.0,2016,Teachg Asst-Gship
+"University of California, San Diego",11011.0,2016,Teachg Asst-Gship
+"University of California, Santa Barbara",14027.0,2016,Teachg Asst-Gship
+"University of California, Santa Cruz",15207.0,2016,Teachg Asst-Gship
+"University of California, Berkeley",9269.0,2015,Teachg Asst-Gship
+"University of California, Davis",14418.0,2015,Teachg Asst-Gship
+"University of California, Irvine",13553.0,2015,Teachg Asst-Gship
+"University of California, Los Angeles",4874.0,2015,Teachg Asst-Gship
+"University of California, Merced",12937.0,2015,Teachg Asst-Gship
+"University of California, Riverside",14604.0,2015,Teachg Asst-Gship
+"University of California, San Diego",11109.0,2015,Teachg Asst-Gship
+"University of California, Santa Barbara",14382.0,2015,Teachg Asst-Gship
+"University of California, Santa Cruz",15094.0,2015,Teachg Asst-Gship
+"University of California, Berkeley",8828.0,2014,Teachg Asst-Gship
+"University of California, Davis",13732.0,2014,Teachg Asst-Gship
+"University of California, Irvine",12049.0,2014,Teachg Asst-Gship
+"University of California, Los Angeles",4830.0,2014,Teachg Asst-Gship
+"University of California, Merced",17851.0,2014,Teachg Asst-Gship
+"University of California, Riverside",13732.0,2014,Teachg Asst-Gship
+"University of California, San Diego",10915.0,2014,Teachg Asst-Gship
+"University of California, Santa Barbara",13522.0,2014,Teachg Asst-Gship
+"University of California, Santa Cruz",13732.0,2014,Teachg Asst-Gship
+"University of California, Berkeley",8828.0,2013,Teachg Asst-Gship
+"University of California, Irvine",13732.0,2013,Teachg Asst-Gship
+"University of California, Los Angeles",6375.0,2013,Teachg Asst-Gship
+"University of California, Merced",16196.0,2013,Teachg Asst-Gship
+"University of California, Riverside",14459.5,2013,Teachg Asst-Gship
+"University of California, San Diego",10840.0,2013,Teachg Asst-Gship
+"University of California, Santa Cruz",13732.0,2013,Teachg Asst-Gship
+"University of California, Berkeley",45772.5,2021,Postdoc-Employee
+"University of California, Davis",49005.0,2021,Postdoc-Employee
+"University of California, Irvine",46694.0,2021,Postdoc-Employee
+"University of California, Los Angeles",52724.5,2021,Postdoc-Employee
+"University of California, Merced",40125.0,2021,Postdoc-Employee
+"University of California, Riverside",47880.0,2021,Postdoc-Employee
+"University of California, San Diego",50233.5,2021,Postdoc-Employee
+"University of California, Santa Barbara",47491.5,2021,Postdoc-Employee
+"University of California, Santa Cruz",51500.5,2021,Postdoc-Employee
+"University of California, Berkeley",48379.0,2020,Postdoc-Employee
+"University of California, Davis",51768.5,2020,Postdoc-Employee
+"University of California, Irvine",50288.0,2020,Postdoc-Employee
+"University of California, Los Angeles",52698.5,2020,Postdoc-Employee
+"University of California, Merced",46530.0,2020,Postdoc-Employee
+"University of California, Riverside",45672.0,2020,Postdoc-Employee
+"University of California, San Diego",52161.0,2020,Postdoc-Employee
+"University of California, Santa Barbara",50773.0,2020,Postdoc-Employee
+"University of California, Santa Cruz",47275.0,2020,Postdoc-Employee
+"University of California, Berkeley",46090.0,2019,Postdoc-Employee
+"University of California, Davis",44691.0,2019,Postdoc-Employee
+"University of California, Irvine",38572.5,2019,Postdoc-Employee
+"University of California, Los Angeles",49668.0,2019,Postdoc-Employee
+"University of California, Merced",38070.0,2019,Postdoc-Employee
+"University of California, Riverside",45373.0,2019,Postdoc-Employee
+"University of California, San Diego",46403.0,2019,Postdoc-Employee
+"University of California, Santa Barbara",50050.0,2019,Postdoc-Employee
+"University of California, Santa Cruz",43918.0,2019,Postdoc-Employee
+"University of California, Berkeley",40180.0,2018,Postdoc-Employee
+"University of California, Davis",41134.0,2018,Postdoc-Employee
+"University of California, Irvine",40404.0,2018,Postdoc-Employee
+"University of California, Los Angeles",44902.0,2018,Postdoc-Employee
+"University of California, Merced",39850.0,2018,Postdoc-Employee
+"University of California, Riverside",46275.0,2018,Postdoc-Employee
+"University of California, San Diego",41403.0,2018,Postdoc-Employee
+"University of California, Santa Barbara",43465.0,2018,Postdoc-Employee
+"University of California, Santa Cruz",45900.0,2018,Postdoc-Employee
+"University of California, Berkeley",40261.0,2017,Postdoc-Employee
+"University of California, Davis",43349.0,2017,Postdoc-Employee
+"University of California, Irvine",38975.0,2017,Postdoc-Employee
+"University of California, Los Angeles",40126.5,2017,Postdoc-Employee
+"University of California, Merced",36356.0,2017,Postdoc-Employee
+"University of California, Riverside",39979.0,2017,Postdoc-Employee
+"University of California, San Diego",36994.0,2017,Postdoc-Employee
+"University of California, Santa Barbara",44432.0,2017,Postdoc-Employee
+"University of California, Santa Cruz",38939.5,2017,Postdoc-Employee
+"University of California, Berkeley",34575.5,2016,Postdoc-Employee
+"University of California, Davis",35639.0,2016,Postdoc-Employee
+"University of California, Irvine",33797.0,2016,Postdoc-Employee
+"University of California, Los Angeles",36864.0,2016,Postdoc-Employee
+"University of California, Merced",32128.0,2016,Postdoc-Employee
+"University of California, Riverside",32260.0,2016,Postdoc-Employee
+"University of California, San Diego",35872.0,2016,Postdoc-Employee
+"University of California, Santa Barbara",36490.0,2016,Postdoc-Employee
+"University of California, Santa Cruz",35688.0,2016,Postdoc-Employee
+"University of California, Berkeley",32671.0,2015,Postdoc-Employee
+"University of California, Davis",36796.5,2015,Postdoc-Employee
+"University of California, Irvine",31340.5,2015,Postdoc-Employee
+"University of California, Los Angeles",36816.0,2015,Postdoc-Employee
+"University of California, Merced",37952.0,2015,Postdoc-Employee
+"University of California, Riverside",33357.0,2015,Postdoc-Employee
+"University of California, San Diego",32811.0,2015,Postdoc-Employee
+"University of California, Santa Barbara",42494.0,2015,Postdoc-Employee
+"University of California, Santa Cruz",32130.0,2015,Postdoc-Employee
+"University of California, Berkeley",32720.0,2014,Postdoc-Employee
+"University of California, Davis",34779.0,2014,Postdoc-Employee
+"University of California, Irvine",35942.5,2014,Postdoc-Employee
+"University of California, Los Angeles",35423.0,2014,Postdoc-Employee
+"University of California, Merced",34285.0,2014,Postdoc-Employee
+"University of California, Riverside",30649.5,2014,Postdoc-Employee
+"University of California, San Diego",31987.0,2014,Postdoc-Employee
+"University of California, Santa Barbara",39866.5,2014,Postdoc-Employee
+"University of California, Santa Cruz",34400.0,2014,Postdoc-Employee
+"University of California, Berkeley",34470.0,2013,Postdoc-Employee
+"University of California, Davis",34702.0,2013,Postdoc-Employee
+"University of California, Irvine",39144.5,2013,Postdoc-Employee
+"University of California, Los Angeles",37186.0,2013,Postdoc-Employee
+"University of California, Merced",29396.0,2013,Postdoc-Employee
+"University of California, Riverside",35249.0,2013,Postdoc-Employee
+"University of California, San Diego",35865.0,2013,Postdoc-Employee
+"University of California, Santa Barbara",37296.0,2013,Postdoc-Employee
+"University of California, Santa Cruz",34527.0,2013,Postdoc-Employee
+"University of California, Berkeley",175053.5,2021,Asst Prof-Ay-B/E/E
+"University of California, Davis",150792.0,2021,Asst Prof-Ay-B/E/E
+"University of California, Irvine",150992.0,2021,Asst Prof-Ay-B/E/E
+"University of California, Los Angeles",181908.5,2021,Asst Prof-Ay-B/E/E
+"University of California, Merced",137804.0,2021,Asst Prof-Ay-B/E/E
+"University of California, Riverside",143445.0,2021,Asst Prof-Ay-B/E/E
+"University of California, San Diego",167875.0,2021,Asst Prof-Ay-B/E/E
+"University of California, Santa Barbara",176026.0,2021,Asst Prof-Ay-B/E/E
+"University of California, Santa Cruz",141000.0,2021,Asst Prof-Ay-B/E/E
+"University of California, Berkeley",181211.0,2020,Asst Prof-Ay-B/E/E
+"University of California, Davis",150412.5,2020,Asst Prof-Ay-B/E/E
+"University of California, Irvine",145971.0,2020,Asst Prof-Ay-B/E/E
+"University of California, Los Angeles",195314.0,2020,Asst Prof-Ay-B/E/E
+"University of California, Merced",135717.0,2020,Asst Prof-Ay-B/E/E
+"University of California, Riverside",132423.0,2020,Asst Prof-Ay-B/E/E
+"University of California, San Diego",156500.0,2020,Asst Prof-Ay-B/E/E
+"University of California, Santa Barbara",169527.0,2020,Asst Prof-Ay-B/E/E
+"University of California, Santa Cruz",139215.5,2020,Asst Prof-Ay-B/E/E
+"University of California, Berkeley",171868.5,2019,Asst Prof-Ay-B/E/E
+"University of California, Davis",142588.0,2019,Asst Prof-Ay-B/E/E
+"University of California, Irvine",144612.0,2019,Asst Prof-Ay-B/E/E
+"University of California, Los Angeles",176001.0,2019,Asst Prof-Ay-B/E/E
+"University of California, Merced",130826.5,2019,Asst Prof-Ay-B/E/E
+"University of California, Riverside",134706.0,2019,Asst Prof-Ay-B/E/E
+"University of California, San Diego",154442.0,2019,Asst Prof-Ay-B/E/E
+"University of California, Santa Barbara",159700.0,2019,Asst Prof-Ay-B/E/E
+"University of California, Santa Cruz",143233.0,2019,Asst Prof-Ay-B/E/E
+"University of California, Berkeley",167153.0,2018,Asst Prof-Ay-B/E/E
+"University of California, Davis",140164.5,2018,Asst Prof-Ay-B/E/E
+"University of California, Irvine",126833.5,2018,Asst Prof-Ay-B/E/E
+"University of California, Los Angeles",165920.5,2018,Asst Prof-Ay-B/E/E
+"University of California, Merced",125612.5,2018,Asst Prof-Ay-B/E/E
+"University of California, Riverside",126553.0,2018,Asst Prof-Ay-B/E/E
+"University of California, San Diego",151240.0,2018,Asst Prof-Ay-B/E/E
+"University of California, Santa Barbara",145992.5,2018,Asst Prof-Ay-B/E/E
+"University of California, Santa Cruz",137342.0,2018,Asst Prof-Ay-B/E/E
+"University of California, Berkeley",160648.0,2017,Asst Prof-Ay-B/E/E
+"University of California, Davis",122350.0,2017,Asst Prof-Ay-B/E/E
+"University of California, Irvine",142178.0,2017,Asst Prof-Ay-B/E/E
+"University of California, Los Angeles",175458.0,2017,Asst Prof-Ay-B/E/E
+"University of California, Merced",113050.0,2017,Asst Prof-Ay-B/E/E
+"University of California, Riverside",126697.0,2017,Asst Prof-Ay-B/E/E
+"University of California, San Diego",140248.5,2017,Asst Prof-Ay-B/E/E
+"University of California, Santa Barbara",138068.0,2017,Asst Prof-Ay-B/E/E
+"University of California, Santa Cruz",129321.0,2017,Asst Prof-Ay-B/E/E
+"University of California, Berkeley",189908.0,2016,Asst Prof-Ay-B/E/E
+"University of California, Davis",111700.0,2016,Asst Prof-Ay-B/E/E
+"University of California, Irvine",135018.0,2016,Asst Prof-Ay-B/E/E
+"University of California, Los Angeles",156232.5,2016,Asst Prof-Ay-B/E/E
+"University of California, Merced",116720.5,2016,Asst Prof-Ay-B/E/E
+"University of California, Riverside",122420.5,2016,Asst Prof-Ay-B/E/E
+"University of California, San Diego",142312.0,2016,Asst Prof-Ay-B/E/E
+"University of California, Santa Barbara",128061.0,2016,Asst Prof-Ay-B/E/E
+"University of California, Santa Cruz",116405.5,2016,Asst Prof-Ay-B/E/E
+"University of California, Berkeley",157457.0,2015,Asst Prof-Ay-B/E/E
+"University of California, Davis",113212.0,2015,Asst Prof-Ay-B/E/E
+"University of California, Irvine",129839.0,2015,Asst Prof-Ay-B/E/E
+"University of California, Los Angeles",139975.0,2015,Asst Prof-Ay-B/E/E
+"University of California, Merced",116785.0,2015,Asst Prof-Ay-B/E/E
+"University of California, Riverside",118505.0,2015,Asst Prof-Ay-B/E/E
+"University of California, San Diego",133187.5,2015,Asst Prof-Ay-B/E/E
+"University of California, Santa Barbara",130403.5,2015,Asst Prof-Ay-B/E/E
+"University of California, Santa Cruz",122319.5,2015,Asst Prof-Ay-B/E/E
+"University of California, Berkeley",180644.0,2014,Asst Prof-Ay-B/E/E
+"University of California, Davis",111871.0,2014,Asst Prof-Ay-B/E/E
+"University of California, Irvine",131225.0,2014,Asst Prof-Ay-B/E/E
+"University of California, Los Angeles",141310.0,2014,Asst Prof-Ay-B/E/E
+"University of California, Merced",96881.0,2014,Asst Prof-Ay-B/E/E
+"University of California, Riverside",112564.0,2014,Asst Prof-Ay-B/E/E
+"University of California, San Diego",120886.0,2014,Asst Prof-Ay-B/E/E
+"University of California, Santa Barbara",131344.0,2014,Asst Prof-Ay-B/E/E
+"University of California, Santa Cruz",126887.0,2014,Asst Prof-Ay-B/E/E
+"University of California, Berkeley",135465.5,2013,Asst Prof-Ay-B/E/E
+"University of California, Davis",117915.0,2013,Asst Prof-Ay-B/E/E
+"University of California, Irvine",119910.0,2013,Asst Prof-Ay-B/E/E
+"University of California, Los Angeles",142315.5,2013,Asst Prof-Ay-B/E/E
+"University of California, Merced",104767.5,2013,Asst Prof-Ay-B/E/E
+"University of California, Riverside",110051.0,2013,Asst Prof-Ay-B/E/E
+"University of California, San Diego",131675.0,2013,Asst Prof-Ay-B/E/E
+"University of California, Santa Barbara",123911.0,2013,Asst Prof-Ay-B/E/E
+"University of California, Santa Cruz",101004.0,2013,Asst Prof-Ay-B/E/E
+"University of California, Berkeley",188408.0,2021,Assoc Prof-Ay-B/E/E
+"University of California, Davis",166122.0,2021,Assoc Prof-Ay-B/E/E
+"University of California, Irvine",193737.5,2021,Assoc Prof-Ay-B/E/E
+"University of California, Los Angeles",264375.5,2021,Assoc Prof-Ay-B/E/E
+"University of California, Merced",155831.0,2021,Assoc Prof-Ay-B/E/E
+"University of California, Riverside",178555.0,2021,Assoc Prof-Ay-B/E/E
+"University of California, San Diego",219606.0,2021,Assoc Prof-Ay-B/E/E
+"University of California, Santa Barbara",173994.0,2021,Assoc Prof-Ay-B/E/E
+"University of California, Santa Cruz",162531.5,2021,Assoc Prof-Ay-B/E/E
+"University of California, Berkeley",230132.0,2020,Assoc Prof-Ay-B/E/E
+"University of California, Davis",170204.0,2020,Assoc Prof-Ay-B/E/E
+"University of California, Irvine",183921.0,2020,Assoc Prof-Ay-B/E/E
+"University of California, Los Angeles",282480.0,2020,Assoc Prof-Ay-B/E/E
+"University of California, Merced",167969.5,2020,Assoc Prof-Ay-B/E/E
+"University of California, Riverside",192145.5,2020,Assoc Prof-Ay-B/E/E
+"University of California, San Diego",202992.5,2020,Assoc Prof-Ay-B/E/E
+"University of California, Santa Barbara",204267.0,2020,Assoc Prof-Ay-B/E/E
+"University of California, Santa Cruz",181199.5,2020,Assoc Prof-Ay-B/E/E
+"University of California, Berkeley",217875.0,2019,Assoc Prof-Ay-B/E/E
+"University of California, Davis",160160.5,2019,Assoc Prof-Ay-B/E/E
+"University of California, Irvine",163392.0,2019,Assoc Prof-Ay-B/E/E
+"University of California, Los Angeles",273775.0,2019,Assoc Prof-Ay-B/E/E
+"University of California, Merced",163049.0,2019,Assoc Prof-Ay-B/E/E
+"University of California, Riverside",176008.0,2019,Assoc Prof-Ay-B/E/E
+"University of California, San Diego",196000.0,2019,Assoc Prof-Ay-B/E/E
+"University of California, Santa Barbara",183895.0,2019,Assoc Prof-Ay-B/E/E
+"University of California, Santa Cruz",162874.5,2019,Assoc Prof-Ay-B/E/E
+"University of California, Berkeley",195029.0,2018,Assoc Prof-Ay-B/E/E
+"University of California, Davis",158852.0,2018,Assoc Prof-Ay-B/E/E
+"University of California, Irvine",171259.0,2018,Assoc Prof-Ay-B/E/E
+"University of California, Los Angeles",276580.0,2018,Assoc Prof-Ay-B/E/E
+"University of California, Merced",155695.0,2018,Assoc Prof-Ay-B/E/E
+"University of California, Riverside",158940.0,2018,Assoc Prof-Ay-B/E/E
+"University of California, San Diego",205388.5,2018,Assoc Prof-Ay-B/E/E
+"University of California, Santa Barbara",177284.0,2018,Assoc Prof-Ay-B/E/E
+"University of California, Santa Cruz",155169.5,2018,Assoc Prof-Ay-B/E/E
+"University of California, Berkeley",193631.5,2017,Assoc Prof-Ay-B/E/E
+"University of California, Davis",147660.0,2017,Assoc Prof-Ay-B/E/E
+"University of California, Irvine",159615.5,2017,Assoc Prof-Ay-B/E/E
+"University of California, Los Angeles",237641.0,2017,Assoc Prof-Ay-B/E/E
+"University of California, Merced",142891.5,2017,Assoc Prof-Ay-B/E/E
+"University of California, Riverside",150308.5,2017,Assoc Prof-Ay-B/E/E
+"University of California, San Diego",182754.5,2017,Assoc Prof-Ay-B/E/E
+"University of California, Santa Barbara",160465.0,2017,Assoc Prof-Ay-B/E/E
+"University of California, Santa Cruz",156084.0,2017,Assoc Prof-Ay-B/E/E
+"University of California, Berkeley",180794.0,2016,Assoc Prof-Ay-B/E/E
+"University of California, Davis",150218.0,2016,Assoc Prof-Ay-B/E/E
+"University of California, Irvine",145330.5,2016,Assoc Prof-Ay-B/E/E
+"University of California, Los Angeles",236139.0,2016,Assoc Prof-Ay-B/E/E
+"University of California, Merced",146083.0,2016,Assoc Prof-Ay-B/E/E
+"University of California, Riverside",136896.0,2016,Assoc Prof-Ay-B/E/E
+"University of California, San Diego",172375.0,2016,Assoc Prof-Ay-B/E/E
+"University of California, Santa Barbara",151426.0,2016,Assoc Prof-Ay-B/E/E
+"University of California, Santa Cruz",151014.0,2016,Assoc Prof-Ay-B/E/E
+"University of California, Berkeley",161927.5,2015,Assoc Prof-Ay-B/E/E
+"University of California, Davis",135741.0,2015,Assoc Prof-Ay-B/E/E
+"University of California, Irvine",135500.0,2015,Assoc Prof-Ay-B/E/E
+"University of California, Los Angeles",215353.0,2015,Assoc Prof-Ay-B/E/E
+"University of California, Merced",138917.5,2015,Assoc Prof-Ay-B/E/E
+"University of California, Riverside",122778.5,2015,Assoc Prof-Ay-B/E/E
+"University of California, San Diego",167704.0,2015,Assoc Prof-Ay-B/E/E
+"University of California, Santa Barbara",144623.0,2015,Assoc Prof-Ay-B/E/E
+"University of California, Santa Cruz",123705.5,2015,Assoc Prof-Ay-B/E/E
+"University of California, Berkeley",156641.5,2014,Assoc Prof-Ay-B/E/E
+"University of California, Davis",130001.5,2014,Assoc Prof-Ay-B/E/E
+"University of California, Irvine",125658.5,2014,Assoc Prof-Ay-B/E/E
+"University of California, Los Angeles",183058.0,2014,Assoc Prof-Ay-B/E/E
+"University of California, Merced",136148.0,2014,Assoc Prof-Ay-B/E/E
+"University of California, Riverside",118450.0,2014,Assoc Prof-Ay-B/E/E
+"University of California, San Diego",151094.0,2014,Assoc Prof-Ay-B/E/E
+"University of California, Santa Barbara",144430.5,2014,Assoc Prof-Ay-B/E/E
+"University of California, Santa Cruz",130619.5,2014,Assoc Prof-Ay-B/E/E
+"University of California, Berkeley",150258.0,2013,Assoc Prof-Ay-B/E/E
+"University of California, Davis",128630.0,2013,Assoc Prof-Ay-B/E/E
+"University of California, Irvine",120584.0,2013,Assoc Prof-Ay-B/E/E
+"University of California, Los Angeles",156379.0,2013,Assoc Prof-Ay-B/E/E
+"University of California, Merced",108571.0,2013,Assoc Prof-Ay-B/E/E
+"University of California, Riverside",108015.0,2013,Assoc Prof-Ay-B/E/E
+"University of California, San Diego",145508.0,2013,Assoc Prof-Ay-B/E/E
+"University of California, Santa Barbara",151036.0,2013,Assoc Prof-Ay-B/E/E
+"University of California, Santa Cruz",128458.0,2013,Assoc Prof-Ay-B/E/E
+"University of California, Berkeley",273227.5,2021,Prof-Ay-B/E/E
+"University of California, Davis",221916.0,2021,Prof-Ay-B/E/E
+"University of California, Irvine",240169.5,2021,Prof-Ay-B/E/E
+"University of California, Los Angeles",358000.0,2021,Prof-Ay-B/E/E
+"University of California, Merced",216555.0,2021,Prof-Ay-B/E/E
+"University of California, Riverside",251461.5,2021,Prof-Ay-B/E/E
+"University of California, San Diego",262759.0,2021,Prof-Ay-B/E/E
+"University of California, Santa Barbara",281488.5,2021,Prof-Ay-B/E/E
+"University of California, Santa Cruz",198781.0,2021,Prof-Ay-B/E/E
+"University of California, Berkeley",260433.0,2020,Prof-Ay-B/E/E
+"University of California, Davis",225568.0,2020,Prof-Ay-B/E/E
+"University of California, Irvine",234217.5,2020,Prof-Ay-B/E/E
+"University of California, Los Angeles",345333.0,2020,Prof-Ay-B/E/E
+"University of California, Merced",218525.0,2020,Prof-Ay-B/E/E
+"University of California, Riverside",244755.0,2020,Prof-Ay-B/E/E
+"University of California, San Diego",256783.5,2020,Prof-Ay-B/E/E
+"University of California, Santa Barbara",279383.5,2020,Prof-Ay-B/E/E
+"University of California, Santa Cruz",183962.5,2020,Prof-Ay-B/E/E
+"University of California, Berkeley",246111.0,2019,Prof-Ay-B/E/E
+"University of California, Davis",210353.0,2019,Prof-Ay-B/E/E
+"University of California, Irvine",220681.5,2019,Prof-Ay-B/E/E
+"University of California, Los Angeles",320661.0,2019,Prof-Ay-B/E/E
+"University of California, Merced",213169.0,2019,Prof-Ay-B/E/E
+"University of California, Riverside",236764.0,2019,Prof-Ay-B/E/E
+"University of California, San Diego",236089.0,2019,Prof-Ay-B/E/E
+"University of California, Santa Barbara",270266.0,2019,Prof-Ay-B/E/E
+"University of California, Santa Cruz",180427.0,2019,Prof-Ay-B/E/E
+"University of California, Berkeley",241780.5,2018,Prof-Ay-B/E/E
+"University of California, Davis",202849.5,2018,Prof-Ay-B/E/E
+"University of California, Irvine",218479.0,2018,Prof-Ay-B/E/E
+"University of California, Los Angeles",326222.0,2018,Prof-Ay-B/E/E
+"University of California, Merced",198736.0,2018,Prof-Ay-B/E/E
+"University of California, Riverside",225228.5,2018,Prof-Ay-B/E/E
+"University of California, San Diego",246036.0,2018,Prof-Ay-B/E/E
+"University of California, Santa Barbara",235639.0,2018,Prof-Ay-B/E/E
+"University of California, Santa Cruz",177075.0,2018,Prof-Ay-B/E/E
+"University of California, Berkeley",228833.5,2017,Prof-Ay-B/E/E
+"University of California, Davis",194338.5,2017,Prof-Ay-B/E/E
+"University of California, Irvine",208960.0,2017,Prof-Ay-B/E/E
+"University of California, Los Angeles",294917.5,2017,Prof-Ay-B/E/E
+"University of California, Merced",177126.5,2017,Prof-Ay-B/E/E
+"University of California, Riverside",201873.5,2017,Prof-Ay-B/E/E
+"University of California, San Diego",227475.0,2017,Prof-Ay-B/E/E
+"University of California, Santa Barbara",231092.0,2017,Prof-Ay-B/E/E
+"University of California, Santa Cruz",168770.0,2017,Prof-Ay-B/E/E
+"University of California, Berkeley",216311.0,2016,Prof-Ay-B/E/E
+"University of California, Davis",181388.0,2016,Prof-Ay-B/E/E
+"University of California, Irvine",206258.0,2016,Prof-Ay-B/E/E
+"University of California, Los Angeles",282996.0,2016,Prof-Ay-B/E/E
+"University of California, Merced",197717.0,2016,Prof-Ay-B/E/E
+"University of California, Riverside",197969.5,2016,Prof-Ay-B/E/E
+"University of California, San Diego",216326.0,2016,Prof-Ay-B/E/E
+"University of California, Santa Barbara",226575.0,2016,Prof-Ay-B/E/E
+"University of California, Santa Cruz",159761.0,2016,Prof-Ay-B/E/E
+"University of California, Berkeley",214344.0,2015,Prof-Ay-B/E/E
+"University of California, Davis",176444.0,2015,Prof-Ay-B/E/E
+"University of California, Irvine",205199.0,2015,Prof-Ay-B/E/E
+"University of California, Los Angeles",269243.5,2015,Prof-Ay-B/E/E
+"University of California, Merced",208045.5,2015,Prof-Ay-B/E/E
+"University of California, Riverside",177153.0,2015,Prof-Ay-B/E/E
+"University of California, San Diego",198754.0,2015,Prof-Ay-B/E/E
+"University of California, Santa Barbara",208530.0,2015,Prof-Ay-B/E/E
+"University of California, Santa Cruz",157134.0,2015,Prof-Ay-B/E/E
+"University of California, Berkeley",211753.5,2014,Prof-Ay-B/E/E
+"University of California, Davis",166243.0,2014,Prof-Ay-B/E/E
+"University of California, Irvine",184459.0,2014,Prof-Ay-B/E/E
+"University of California, Los Angeles",258981.0,2014,Prof-Ay-B/E/E
+"University of California, Merced",178935.5,2014,Prof-Ay-B/E/E
+"University of California, Riverside",163971.0,2014,Prof-Ay-B/E/E
+"University of California, San Diego",195199.5,2014,Prof-Ay-B/E/E
+"University of California, Santa Barbara",203867.0,2014,Prof-Ay-B/E/E
+"University of California, Santa Cruz",148679.0,2014,Prof-Ay-B/E/E
+"University of California, Berkeley",200876.5,2013,Prof-Ay-B/E/E
+"University of California, Davis",161633.0,2013,Prof-Ay-B/E/E
+"University of California, Irvine",179867.0,2013,Prof-Ay-B/E/E
+"University of California, Los Angeles",240468.5,2013,Prof-Ay-B/E/E
+"University of California, Merced",169878.5,2013,Prof-Ay-B/E/E
+"University of California, Riverside",158208.0,2013,Prof-Ay-B/E/E
+"University of California, San Diego",181933.0,2013,Prof-Ay-B/E/E
+"University of California, Santa Barbara",193183.0,2013,Prof-Ay-B/E/E
+"University of California, Santa Cruz",144905.0,2013,Prof-Ay-B/E/E
