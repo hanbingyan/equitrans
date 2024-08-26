@@ -11,6 +11,11 @@ Thanks to the authors of these packages!
 Code for two job markets is given in two folders `Executives` and `California`, 
 which can work separately. 
 
+## Illustrative examples
+
+`MV_precommit.py` and `MV_equilibrium.py` are for the toy example on dynamic matching 
+between supply and demand.
+
 ## Executives
 ### Data
 With access to WRDS, we download financial statements data from Compustat North America and 
