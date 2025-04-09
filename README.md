@@ -101,3 +101,6 @@ data (=False).
 plans. Variables `bench_zero` should be the same as in Step 2.
 4. Figures and tables are obtained by `Results_Figs_Tables.ipynb` and 
 `Descriptive_Statistics.ipynb`.
+
+## Cobb-Douglas 
+It contains code for the model following Gabaix and Landier (2008).
